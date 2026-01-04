@@ -546,7 +546,6 @@ $DESTINATIONNAME$	-> gets replaced by a BR shipping destination during runtime. 
 		<Message>这是限时优惠哦，还在犹豫什么，赶紧访问 A.I.M. 的网站吧，你一定不会错过的。±</Message>
 		<Message>你真诚的， ± ± Howard "Carp" Melfield ± 营销经理 ± 国际佣兵协会 ±</Message>
 		<Message>注：本优惠只适用于老用户。 ± 在法律不允许的国家无效。± 不能与任何其他优惠同时使用。 ±佣兵数量有限，先到先得。</Message>
-		<Message></Message>
 	</EMAIL>
 	<EMAIL>
 		<Sender>50</Sender>
